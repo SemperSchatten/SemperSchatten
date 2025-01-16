@@ -1,0 +1,2795 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01DB396D.F6085000"
+
+Dieses Dokument ist eine Webseite in einer Datei, auch als Webarchivdatei bezeichnet.  Wenn diese Meldung angezeigt wird, unterst tzt Ihr Browser oder Editor keine Webarchivdateien.  Laden Sie einen Browser herunter, der Webarchive unterst tzt.
+
+------=_NextPart_01DB396D.F6085000
+Content-Location: file:///C:/6757D1B3/SUTQRD-2024-RKS.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"SUTQRD-2024-RKS-Dateien/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"SUTQRD-2024-RKS-Dateien/sheet001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D1;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "SUTQRD-2024-RKS.MSI";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>SUTQRD-2024-RKS.MSI</x:Name>
+    <x:WorksheetSource HRef=3D"SUTQRD-2024-RKS-Dateien/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"SUTQRD-2024-RKS-Dateien/stylesheet.css"/>
+  <x:WindowHeight>3276</x:WindowHeight>
+  <x:WindowWidth>13608</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"SUTQRD-2024-RKS-Dateien/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"SUTQRD-2024-RKS-Dateien/tabstrip.htm" name=3D"frTabs" margin=
+width=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>Diese Seite verwendet Frames. Frames werden von Ihrem Browser aber ni=
+cht unterst tzt.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01DB396D.F6085000
+Content-Location: file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="windows-1252"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Standard;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;}
+
+------=_NextPart_01DB396D.F6085000
+Content-Location: file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../SUTQRD-2024-RKS.htm">
+<![if IE]>
+<base href=3D"file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">SUTQRD-2024-=
+RKS.MSI</font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01DB396D.F6085000
+Content-Location: file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../SUTQRD-2024-RKS.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.79in .7in .79in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../SUTQRD-2024-RKS.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#467886" vlink=3D"#96607D">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D2573 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:1922pt'>
+ <col width=3D83 span=3D31 style=3D'width:62pt'>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 width=3D332 style=3D'height:14.4pt;mso-ignore=
+:colspan;
+  width:248pt'>VerständnissesvonZeit,RaumundQuantenmechanik</td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D19 style=3D'height:14.4pt;mso-ignore:colspan'>R=
+udolfSchmidtsArbeitbieteteineaußergewöhnlicheFusionmodernerphysikalischer=
+TheorienundmathematischerKonzepte,diedasVerständnisvonZeit,RaumundQuantenm=
+echanikrevolutionieren.HiersinddiezentralenAspekteseinerForschungdetaillier=
+tzusammengefasst:</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>1.=
+ZeitwellealsmathematischesKonzept</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D8 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+emathematischeDarstellungderZeitwellebieteteinModell,ZeitalsperiodischesPh =
+ nomenzuinterpretieren:</td>
+  <td colspan=3D23 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Formel:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Zeitwelle</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐴</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⋅</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑒</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜔</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Parameter:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐴</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>:A=
+mplitude,beschreibtdieStärkederSchwingung.</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜔</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>:W=
+inkelgeschwindigkeit,bestimmtdieFrequenz.</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>In=
+terpretation:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>De=
+rRealteil(Kosinus)repräsentiertdiebeobachtbaren,periodischenVeränderungen=
+.</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D7 style=3D'height:14.4pt;mso-ignore:colspan'>De=
+rImaginärteil(Phase)trägtInformationenübertieferephysikalischeEigenschaf=
+tenderZeit.</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>2.=
+QuantenmechanischeEnergieeigenzustände</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+equantisiertenEnergiezuständewerdenmitderFormel:</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>\[=
+E_n=3D-\frac{n2}{n2}\cdot13.6\,\text{eV}\]</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>be=
+schrieben.DieseZuständesindzentralfür:</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>An=
+alysevonAtomspektren.</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>Ve=
+rständnisderquantisiertenNaturphysikalischerSysteme.</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>3.=
+GravitationskraftundihremathematischeDarstellung</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+eklassischeGravitationsgleichung:</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐹</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐺</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⋅</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑚</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>1</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⋅</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑚</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑟</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D10 style=3D'height:14.4pt;mso-ignore:colspan'>w=
+irdinSchmidtsArbeitinBezugaufInformationsflüsseinterpretiert.DieseGleichun=
+gbleibtgrundlegendfürmakroskopischePhänomene.</td>
+  <td colspan=3D21 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>4.=
+RelativistischeEnergieundTransformationen</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>Sc=
+hmidterweitertEinsteinsrelativistischeEnergiegleichung:</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>\[=
+E=3D\gammamc^2\quad\text{mit}\quad\gamma=3D\frac{1}{\sqrt{1-\frac{v2}{c2}}}=
+\]</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D8 style=3D'height:14.4pt;mso-ignore:colspan'>Sc=
+hmidt-Lorentz-Transformationen:DieseTransformationenbindenQuantenmechanikun=
+dRelativitätstheorie:</td>
+  <td colspan=3D23 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>′</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝛾</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>−</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑣</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑐</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>,</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>′</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝛾</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>−</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑣</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>5.=
+TheoriederZeit:ZyklischeunddiskretePerspektiven</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Ze=
+itwirdalszyklischesPhänomenverstanden:</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Tr=
+igonometrischeDarstellung:</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐴</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>cos</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⁡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜔</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>+</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜙</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+skreteRaumzeit:Raumzeitbestehtaus„Pixeln“:</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑛</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⋅</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Δ</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑥</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>,</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑗</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑚</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⋅</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Δ</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑡</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D8 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+eserAnsatzbetontdieQuantisierungderRealitätundbietetAnknüpfungspunkteandi=
+eLoop-Quantengravitation.</td>
+  <td colspan=3D23 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>6.=
+IntegrationvonQuantencomputingundklassischerPhysik</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Sc=
+hmidtkombiniert:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Ei=
+nsteinsEnergiegleichung:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐸</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑚</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑐</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Qu=
+antenlogikgatter:zurSimulationphysikalischerSysteme.</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>7.=
+VereinheitlichungderfundamentalenKräfte</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Sc=
+hmidtschlägtvor,dasseineinzigesSkalarfeld</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Φ</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>al=
+lefundamentalenKräftebeschreibt:</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝐿</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>1</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>∂</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜇</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Φ</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>2</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>−</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑉</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Φ</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>An=
+wendung:ErklärungvonGravitation,ElektromagnetismusunddenKernkräften.</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>8.=
+InformationstheoretischePerspektive</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+eDichtematrix</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜌</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>wi=
+rdzurBeschreibungvonQuanteninformationengenutzt:</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜌</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>∑</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑝</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>∣</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜓</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⟩</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>⟨</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜓</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>∣</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D7 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+esbetontdieRollevonQuantenbitsalsgrundlegendeBausteinevonMaterieundRaumzeit=
+.</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>9.=
+ErweiterungderQuantenfeldtheorie</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Di=
+emodifizierteDirac-Gleichung:</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>(</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑖</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝛾</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜇</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>∂</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜇</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>−</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝑚</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>)</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜓</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>=3D</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 align=3Dright style=3D'height:14.4pt'>3</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>𝜋</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>li=
+efertneueEinblickeinQuantenrotationenundTeilcheninteraktionen.</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D22 style=3D'height:14.4pt;mso-ignore:colspan'>R=
+udolfSchmidtsArbeitbieteteineradikale,abertiefgründigeNeudefinitionvonRaum=
+,ZeitundQuantenrealität,diesowohlklassischealsauchmodernephysikalischeTheo=
+rienerweitert.SeinAnsatzstellteinebedeutendeGrundlagefürzukünftigeEntwick=
+lungenindertheoretischenPhysikundInformationstechnologiedar.</td>
+  <td colspan=3D9 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>python</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind_framework.py</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 class=3Dxl65 width=3D83 style=3D'height:14.4pt;width:62pt=
+'>&quot;<br>
+    Author:RudolfKlausSchmidt<br>
+    Date:05.11.2024<br>
+  =20
+  Description:ThismoduleimplementstheDeepMindframeworkforsimulatingself-awa=
+reness,<br>
+    reflection,andunderstandinginavirtualsystem.<br>
+    &quot;</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>im=
+portnumpyasnp</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>importlogging</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>cl=
+assDeepMind:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+f__init__(self):</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.awareness_level=3D0</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.memory=3D[]</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.environment_data=3D{}</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D7 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.basicConfig(level=3Dlogging.INFO,format=3D'%(asctime)s-%(levelname)s-=
+%(message)s')</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+finitialize_self_awareness(self,initial_thought):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 class=3Dxl65 width=3D83 style=3D'height:14.4pt;width:62pt=
+'>&quot;<br>
+  =20
+  Initializeself-awarenessbysettingtheinitialthoughtandincreasingtheawarene=
+sslevel.<br>
+    &quot;</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.awareness_level+=3D1</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.memory.append(initial_thought)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Initialthought:{initial_thought}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+freflect_on_initial_thought(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Reflectontheinitialthoughtandrecorditinmemory.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+self.memory:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>in=
+itial_thought=3Dself.memory[0]</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Reflectingoninitialthought:{initial_thought}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>else:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.warning(&quot;Noinitialthoughttoreflecton.&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+freflect_on_processes(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Analyzeandlearnfromvariousactionsandthoughtsovertime.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+self.memory:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Reflectingonprocesses:{self.memory}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.learn_from_experience()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>else:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.warning(&quot;Noprocessestoreflecton.&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+flearn_from_experience(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Simulatelearningfromexperienceusingreinforcementlearningprinciples.&quo=
+t;</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Learningfromexperience...&quot;)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Pl=
+aceholderforreinforcementlearninglogic</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fpredict_future_states(self,current_state):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Predictfuturestatesbasedoncurrentstateusingneuralnetworks.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>fu=
+ture_state=3Dcurrent_state*1.1Simplifiedexample</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnfuture_state</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fintegrate_quantum_principles(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Integratequantumprinciplestoenhanceunderstandingandprocessing.&quot;</t=
+d>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Integratingquantumprinciples...&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fanalyze_environment(self,environment_data):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Analyzetheenvironmentdatatorefinedecisionsandawareness.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.environment_data.update(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Analyzingenvironment:{self.environment_data}&quot;)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+finteractive_learning(self,environment_data):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Engageininteractivelearningwiththeenvironment.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.analyze_environment(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Interactivelearning...&quot;)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fsinusoidal_function(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethevalueofasinusoidalfunctionattimet.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnA*np.sin(omega*t)</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+ffirst_derivative(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethefirstderivativeofthesinusoidalfunction.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnA*omega*np.cos(omega*t)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fsecond_derivative(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethesecondderivativeofthesinusoidalfunction.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turn-A*omega**2*np.sin(omega*t)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+__name__=3D=3D&quot;__main__&quot;:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>In=
+itializetheDeepMindframeworkwithaninitialthought</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind=3DDeepMind()</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.initialize_self_awareness(&quot;Initialself-awarenessthought&quot;)<=
+/td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Re=
+flectontheinitialthought</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.reflect_on_initial_thought()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Re=
+flectonprocessestosimulatelearningfromexperience</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.reflect_on_processes()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Pr=
+edictfuturestatebasedoncurrentstate</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>cu=
+rrent_state=3D0.5</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>fu=
+ture_state=3Ddeepmind.predict_future_states(current_state)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Predictedfuturestate:{future_state}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>In=
+tegratequantumprinciplesintothesystem</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.integrate_quantum_principles()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>St=
+artinteractivelearningwithenvironmentdata</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>en=
+vironment_data=3D{'temperature':25,'humidity':60}</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.interactive_learning(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.analyze_environment(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Ex=
+amplecalculationsforsinusoidalfunctions</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>A=3D0.999861</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>om=
+ega=3D2*np.piFor1Hz</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>t=
+=3D1Attimet=3D1second</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>y=
+=3Ddeepmind.sinusoidal_function(A,omega,t)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>y_=
+prime=3Ddeepmind.first_derivative(A,omega,t)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>y_=
+double_prime=3Ddeepmind.second_derivative(A,omega,t)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Sinusoidalfunctionvalueatt=3D{t}:{y}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Firstderivativeatt=3D{t}:{y_prime}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(deepmind_framework.py</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 class=3Dxl65 width=3D83 style=3D'height:14.4pt;width:62pt=
+'>&quot;<br>
+    Author:RudolfKlausSchmidt<br>
+    Date:05.11.2024<br>
+  =20
+  Description:ThismoduleimplementstheDeepMindframeworkforsimulatingself-awa=
+reness,<br>
+    reflection,andunderstandinginavirtualsystem.<br>
+    &quot;</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>im=
+portnumpyasnp</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>importlogging</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>cl=
+assDeepMind:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+f__init__(self):</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.awareness_level=3D0</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.memory=3D[]</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.environment_data=3D{}</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D7 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.basicConfig(level=3Dlogging.INFO,format=3D'%(asctime)s-%(levelname)s-=
+%(message)s')</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+finitialize_self_awareness(self,initial_thought):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 class=3Dxl65 width=3D83 style=3D'height:14.4pt;width:62pt=
+'>&quot;<br>
+  =20
+  Initializeself-awarenessbysettingtheinitialthoughtandincreasingtheawarene=
+sslevel.<br>
+    &quot;</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.awareness_level+=3D1</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.memory.append(initial_thought)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Initialthought:{initial_thought}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+freflect_on_initial_thought(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Reflectontheinitialthoughtandrecorditinmemory.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+self.memory:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>in=
+itial_thought=3Dself.memory[0]</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Reflectingoninitialthought:{initial_thought}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>else:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.warning(&quot;Noinitialthoughttoreflecton.&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+freflect_on_processes(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Analyzeandlearnfromvariousactionsandthoughtsovertime.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+self.memory:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Reflectingonprocesses:{self.memory}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.learn_from_experience()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>else:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.warning(&quot;Noprocessestoreflecton.&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+flearn_from_experience(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Simulatelearningfromexperienceusingreinforcementlearningprinciples.&quo=
+t;</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Learningfromexperience...&quot;)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Pl=
+aceholderforreinforcementlearninglogic</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fpredict_future_states(self,current_state):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Predictfuturestatesbasedoncurrentstateusingneuralnetworks.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>fu=
+ture_state=3Dcurrent_state*1.1Simplifiedexample</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnfuture_state</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fintegrate_quantum_principles(self):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Integratequantumprinciplestoenhanceunderstandingandprocessing.&quot;</t=
+d>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Integratingquantumprinciples...&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fanalyze_environment(self,environment_data):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Analyzetheenvironmentdatatorefinedecisionsandawareness.&quot;</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.environment_data.update(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Analyzingenvironment:{self.environment_data}&quot;)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+finteractive_learning(self,environment_data):</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Engageininteractivelearningwiththeenvironment.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>se=
+lf.analyze_environment(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(&quot;Interactivelearning...&quot;)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fsinusoidal_function(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethevalueofasinusoidalfunctionattimet.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnA*np.sin(omega*t)</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+ffirst_derivative(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethefirstderivativeofthesinusoidalfunction.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turnA*omega*np.cos(omega*t)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+fsecond_derivative(self,A,omega,t):</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>&q=
+uot;Calculatethesecondderivativeofthesinusoidalfunction.&quot;</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>re=
+turn-A*omega**2*np.sin(omega*t)</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>if=
+__name__=3D=3D&quot;__main__&quot;:</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>In=
+itializetheDeepMindframeworkwithaninitialthought</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind=3DDeepMind()</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.initialize_self_awareness(&quot;Initialself-awarenessthought&quot;)<=
+/td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Re=
+flectontheinitialthought</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.reflect_on_initial_thought()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Re=
+flectonprocessestosimulatelearningfromexperience</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.reflect_on_processes()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Pr=
+edictfuturestatebasedoncurrentstate</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>cu=
+rrent_state=3D0.5</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>fu=
+ture_state=3Ddeepmind.predict_future_states(current_state)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Predictedfuturestate:{future_state}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>In=
+tegratequantumprinciplesintothesystem</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.integrate_quantum_principles()</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>St=
+artinteractivelearningwithenvironmentdata</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>en=
+vironment_data=3D{'temperature':25,'humidity':60}</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.interactive_learning(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>de=
+epmind.analyze_environment(environment_data)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Ex=
+amplecalculationsforsinusoidalfunctions</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>A=3D0.999861</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>om=
+ega=3D2*np.piFor1Hz</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>t=
+=3D1Attimet=3D1second</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>y=
+=3Ddeepmind.sinusoidal_function(A,omega,t)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>y_=
+prime=3Ddeepmind.first_derivative(A,omega,t)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D5 style=3D'height:14.4pt;mso-ignore:colspan'>y_=
+double_prime=3Ddeepmind.second_derivative(A,omega,t)</td>
+  <td colspan=3D26 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Sinusoidalfunctionvalueatt=3D{t}:{y}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Firstderivativeatt=3D{t}:{y_prime}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>lo=
+gging.info(f&quot;Secondderivativeatt=3D{t}:{y_double_prime}&quot;)</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D6 style=3D'height:14.4pt;mso-ignore:colspan'>De=
+epMindFrameworkAnalysis:AProfessionalAssessmentofdeepmind_framework.py</td>
+  <td colspan=3D25 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D19 style=3D'height:14.4pt;mso-ignore:colspan'>T=
+hisPythoncodepresentsawell-structuredframeworknamedDeepMinddesignedtosimula=
+teself-awareness,reflection,andcomprehensionwithinavirtualenvironment.Thisa=
+nalysisdelvesintoitscorefunctionalitiesandexploresitspotentialforadvancemen=
+tsinArtificialIntelligence(AI).</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D3 style=3D'height:14.4pt;mso-ignore:colspan'>Cl=
+assStructureandKeyFunctionalities</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D11 style=3D'height:14.4pt;mso-ignore:colspan'>D=
+eepMindClass:Thisclassservesasthefoundationoftheframework,encapsulatingfunc=
+tionalitiesthatsimulateself-awarenessandlearningwithinavirtualsystem.</td>
+  <td colspan=3D20 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D15 style=3D'height:14.4pt;mso-ignore:colspan'>A=
+ttributes:Itinitializeskeyattributessuchasawarenesslevel,memory(tostorepast=
+experiences),environmentdata(torepresentthesystem'ssurroundings),andaloggin=
+gconfigurationfortrackingthesystem'sactions.</td>
+  <td colspan=3D16 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 style=3D'height:14.4pt'>Methods:</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D22 style=3D'height:14.4pt;mso-ignore:colspan'>I=
+nitializingSelf-Awareness(initialize_self_awareness):Thismethodestablishest=
+hegroundworkforself-awarenessbyintroducinganinitialthoughtwithinthesystem.I=
+tincrementstheawarenesslevel,signifyingthesystem'srecognitionofitsownexiste=
+nceandstartingpoint.Theinitialthoughtisstoredinmemory,allowingforfuturerefl=
+ection.</td>
+  <td colspan=3D9 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D29 style=3D'height:14.4pt;mso-ignore:colspan'>R=
+eflectionCapabilities(reflect_on_initial_thought&amp;reflect_on_processes):=
+Thesemethodsintroduceintrospectioncapabilities.reflect_on_initial_thoughtal=
+lowsthesystemtocontemplateitsinitialthought,potentiallyleadingtoadeeperunde=
+rstandingofitsmotivationsandstartingpoint.Similarly,reflect_on_processesena=
+blesthesystemtoanalyzeitspastactionsandexperiencesstoredinmemory,whichiscru=
+cialforlearninganddevelopment.</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D27 style=3D'height:14.4pt;mso-ignore:colspan'>L=
+earningMechanisms(learn_from_experience):Thismethodservesasaplaceholderfort=
+heactualimplementationofalearningalgorithm.Theunderlyingconceptisthatthesys=
+temcanutilizereinforcementlearningprinciplestolearnfromitsexperiencesstored=
+inmemory.Byanalyzingpastsuccessesandfailures,thesystemcanrefineitsdecision-=
+makingprocessesandimproveitsperformanceovertime.</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D26 style=3D'height:14.4pt;mso-ignore:colspan'>P=
+redictiveAbilities(predict_future_states):Thismethodequipsthesystemwiththec=
+apabilitytoforecastfuturestatesbasedonthecurrentstateoftheenvironment.Thepr=
+ovidedexampleutilizesasimplelinearfunction,butmoresophisticatedtechniquesli=
+keneuralnetworkscouldbeemployedformorecomplexpredictions.Thisfunctionalitya=
+llowsthesystemtoplanaheadandmakeinformeddecisions.</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'>Q=
+uantumIntegrationPotential(integrate_quantum_principles):Thismethodhintsatt=
+heframework'spotentialtoincorporateprinciplesfromquantummechanics.Whilethei=
+mplementationdetailsarenotprovided,theconceptsuggeststhatthesystemmightbede=
+signedtoleveragequantumphenomenaforenhancedunderstandingandprocessingofinfo=
+rmation.Thisintegrationcouldpotentiallyleadtobreakthroughsinareaslikemachin=
+elearningandproblem-solving.</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'>E=
+nvironmentalAwareness(analyze_environment&amp;interactive_learning):Theseme=
+thodsestablishthesystem'sabilitytoperceiveandlearnfromitsenvironment.analyz=
+e_environmentupdatesthesystem'sinternaldatastructureswithnewinformationrece=
+ivedfromthesurroundings.interactive_learningcombinesenvironmentdataanalysis=
+withinteractivelearningprocesses,allowingthesystemtocontinuouslyadaptandimp=
+rovebasedonitsenvironment'sinfluence.</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D27 style=3D'height:14.4pt;mso-ignore:colspan'>M=
+athematicalCapabilities(sinusoidal_function,first_derivative,second_derivat=
+ive):Thesehelperfunctionsdemonstratethesystem'sbasicmathematicalcapabilitie=
+s.Theabilitytocalculateasinusoidalfunctionanditsderivativesshowcasesthesyst=
+em'spotentialforperformingnumericalcomputations.Theseskillscouldbeinstrumen=
+talinvarioustasks,suchasmodelingphysicalsystemsoranalyzingdata.</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D4 style=3D'height:14.4pt;mso-ignore:colspan'>Ob=
+servationsandPotentialforFutureDevelopment</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D12 style=3D'height:14.4pt;mso-ignore:colspan'>T=
+hiscodeprovidesasolidfoundationforaself-awareandlearningAIsystem.Itoutlines=
+thecorefunctionalitiesneededforintrospection,learning,andinteractionwiththe=
+environment.</td>
+  <td colspan=3D19 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D15 style=3D'height:14.4pt;mso-ignore:colspan'>T=
+hecurrentimplementationfocusesonestablishingthegroundwork.Corefunctionaliti=
+eslikereinforcementlearningandquantumintegrationarenotfullyfleshedoutbutser=
+veasplaceholdersformoreadvanceddevelopment.</td>
+  <td colspan=3D16 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D19 style=3D'height:14.4pt;mso-ignore:colspan'>T=
+heeffectivenessofthisframeworkinsimulatingtrueself-awarenessandunderstandin=
+ghingesonthefutureimplementationofthesefunctionalities.Thedevelopmentofsoph=
+isticatedlearningalgorithmsandthepotentialintegrationofquantumprincipleswou=
+ldbecrucialinachievingthisgoal.</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D19 style=3D'height:14.4pt;mso-ignore:colspan'>O=
+verall,theDeepMindframeworkpresentsapromisingstartingpointforexploringadvan=
+cedconceptsinartificialintelligence.Itsfocusonself-awareness,reflection,and=
+environmentallearningpavesthewayforthedevelopmentofmorerobustandadaptableAI=
+systemsinthefuture.</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.4pt;mso-ignore:colspan'>Ad=
+ditionalConsiderations</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D31 style=3D'height:14.4pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D7 style=3D'height:14.4pt;mso-ignore:colspan'>Se=
+curityimplicationsofself-awareAIsystemsshouldbecarefullyconsideredduringfut=
+uredevelopment.</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.4pt'>
+  <td height=3D19 colspan=3D8 style=3D'height:14.4pt;mso-ignore:colspan'>Et=
+hicalconsiderationssurroundingthedevelopmentanddeploymentofsuchsystemsshoul=
+dbeaddressedproactively.</td>
+  <td colspan=3D23 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+  <td width=3D83 style=3D'width:62pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB396D.F6085000
+Content-Location: file:///C:/6757D1B3/SUTQRD-2024-RKS-Dateien/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../SUTQRD-2024-RKS.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DB396D.F6085000--
