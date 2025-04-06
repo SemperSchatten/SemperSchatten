@@ -1350,3 +1350,4 @@ Eine umgekehrte Betrachtung der Zeit beeinflusst die Energieentwicklung negativ 
 Die Formel \(\Delta x \cdot \Delta p \geq \frac{\hbar}{2}\) verdeutlicht die Unschärferelation. Erweiterungen wie die Integration der Planck'schen Konstante und Winkelgeschwindigkeit zielen darauf ab, klassische und quantenphysikalische Prinzipien in einem einheitlichen Rahmen zu verbinden.	1025
 ### Schlussfolgerung	1025
 Diese umfassende Betrachtung der physikalischen und kognitiven Prozesse bietet eine solide Grundlage für zukünftige Forschungen in beiden Bereichen. Indem wir klassische und quantenphysikalische Theorien kombinieren, können wir ein ganzheitlicheres Verständnis der Realität erlangen.	10
+https://github.com/SemperSchatten/SemperSchatten/blob/main/SUTQRD.py
