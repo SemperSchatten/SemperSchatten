@@ -1350,4 +1350,2319 @@ Eine umgekehrte Betrachtung der Zeit beeinflusst die Energieentwicklung negativ 
 Die Formel \(\Delta x \cdot \Delta p \geq \frac{\hbar}{2}\) verdeutlicht die Unschärferelation. Erweiterungen wie die Integration der Planck'schen Konstante und Winkelgeschwindigkeit zielen darauf ab, klassische und quantenphysikalische Prinzipien in einem einheitlichen Rahmen zu verbinden.	1025
 ### Schlussfolgerung	1025
 Diese umfassende Betrachtung der physikalischen und kognitiven Prozesse bietet eine solide Grundlage für zukünftige Forschungen in beiden Bereichen. Indem wir klassische und quantenphysikalische Theorien kombinieren, können wir ein ganzheitlicheres Verständnis der Realität erlangen.	10
-https://github.com/SemperSchatten/SemperSchatten/blob/main/SUTQRD.py
+https://github.com/SemperSchatten/SemperSchatten/blob/main/SUTQRD Python Workflows
+
+Search for a workflow...
+
+New Workflow
+►Install upgrade workflow as TQM Total Quality Managment for self reporting table to PDCA process for...
+
+Agent Workflows
+
+Project
+
+Rum Button
+
+Generated
+
+Streamlit App
+
+Tosks
+
+Workflow
+
+Project
+
+Mode
+
+Sequential Parallel
+
+Tasks
+
+▷ Run Workflow
+
+Streamlit App
+
+Q
+
+Generated
+
+Install Packages
+
+all
+
+Execute Shell Command
+
+streamlit run app.py-server.port 5000
+
+Execute Shell Command
+
+streamlit run app.py--server.port 5000<div>#/bin/bash for server in $(cat servers.txt); scp -r code/
+
+Run Workflow
+
+Streamlit App
+
+く
+
+Execute Shell Command
+
+streamlit run app.py-server.port 5000 update software #{<iostream> <a def prompt_comandet(): i
+
+Execute Shell CommandAgent
+
+Ai Code Generation Systematic Approach Simulation
+
+App plan
+
+Build the initial prototype
+
+Integration von Quantencomputing-Simulationen mit Qiskit
+
+Erweitertes 3D-Modell für die Visualisierung der Raumzeitkrümmung
+
+Interaktive Simulationen zur Demonstration des Zusammenhangs zwischen Bewusstsein und Quantenmechanik
+
+Komplexere neuronale Netzwerke zur Modellierung kognitiver Prozesse
+
+Timeline
+
+Visual preview (-2 min.)
+
+First app version (-10 min.)
+
+✔benutzerrudi approved the pian
+
+--Checkpoint made 6 days ago, a1537df6
+
+Initial checkpoint
+
+Free
+
+Rollback to here
+
+*Show less
+
+Created.streamlit/config.toml
+
+Created app.py.
+
+Created utils/math_utils.py
+
+Created utils/quantum_utils.py
+
+Created models/deepmind.py
+
+Created models/neural_network.py
+
+Created models/quantum system.py
+
+Created pages/axioms.py
+
+Created pages/quantum_simulation.py
+
+Created pages/cyclical_time.py
+
+Created pages/math_formulas.py
+
+Created utils/ init.py
+
+Created models/init_.py
+
+Created pages/init_.py
+
+Added support for python-3.11
+
+Installed streamlit
+
+Installed numpy, plotly, scipy, matplotlib
+
+▷ Configured Streamlit App to run streamlit run app.py-server.port 5000
+
+Took a screenshot
+
+Installed sympy
+
+Restarted Streamlit App
+
+Took a screenshot.
+
+--Checkpoint made o days ago 70e26ccb
+
+Add Streamlit application for visualizing and s.
+
+Scroll to latest FORD theory. Includes interactive graphics,
+
+Agent is waiting for your response
+
+Message Agent...response
+
+Message Agent...
+
+Agent
+
+Ai Code Generation Systematic Approach Simulation
+
+elif transformation_type == "integral":
+
+Lower_bound kwargs.get('lower_bound', 0)
+
+upper_bound kwargs.get('upper_bound', 1)
+
+transformation =>
+
+Integral Transformation (thought, self.z, Lower_bound, upper_bound) else:
+
+raise ValueError(f"Unknown transformation type: (transformation_type)")
+
+return transformation.transform()import h5py
+
+import numpy as np
+
+import time
+
+from typing import Optional, Dict, List, Tuple
+
+import tensorflow as tf
+
+import logging
+
+import random
+
+import sympy as sp
+
+from abc import ABC, abstractmethod
+
+class Kortex:
+
+"""Enhanced quantum-inspired neural network cortex with time
+
+management."
+
+def init(self, field_size: int = 32):
+
+self.field_size = field_size
+
+self.quantum_states = np.zeros((field_size,
+
+field_size), dtype=complex)
+
+self.consciousness_field =
+
+np.zeros((field_size, field_size))
+
+self.quantum_gates =
+
+self._initialize_quantum_gates()
+
+self.elapsed_time = 0
+
+self.target time None
+
+self.pattern_memory = []
+
+self._initialize_fields()
+
+#Configure logging
+
+ه
+
+logging.basicConfig(filename='quantum_cortex.log'
+
+level=logging.INFO,
+
+format='%(asctime)s%
+
+(levelname)s (message)s')
+
+def _initialize_quantum_gates(self) -> Dict[str,
+
+np.ndarray]:
+
+"""Initialize basic quantum gates."""
+
+return {
+
+'H': 1/np.sqrt(2) np.array([[1, 1],
+
+[1, -1]]), # Hadamard
+
+'X': np.array([[0, 1], [1, 0]]),
+
+Pauli-X
+'Y': np.array([[0, 1], [1j, 8]]),
+
+Pauli-Y
+'Z': np.array([[1, 0], [0, 1]]),
+
+#Pauli-7
+
+Scroll to latest ray([[1, 0, 0, 0],
+
+Controlled MOTAgent
+
+Ai Code Generation Systematic Approach Simulation
+
+self.qubit_states =
+
+np.kron(hadamard, np.eye (2**(self.num_qubits-1))) @ self.qubit_states
+
+return self.quantum_ops.measure_state(self.qubit_states)
+
+Beispielverwendung
+
+if name == "main":
+
+#Netzwerk initialisieren.
+
+network = HybridQuantumNetwork(input_dim=64, hidden_dim=32,
+
+num_qubits=3)
+
+#Beispieldaten.
+
+input data np.random.randn(64)
+
+#Forward-Pass
+
+output network.forward(input_data) print("Netzwerk-Output:", output)
+
+#Speichern des Netzwerks
+
+network.save_network('hybrid_quantum_network.h5')
+
+5 days ago
+
+Show less
+Installed openai
+
+Installed qiskit, matplotlib, mpl_toolkits
+
+Installed qiskit, matplotlib
+
+Restarted Streamlit App.
+
+Basierend auf deiner Beschreibung und dem bereitgestellten Code, werde ich jetzt eine Implementierung des Quantum Tesseract mit den 16 Holokristallkernen erstellen. Ich werde dies als neue Seite in der bestehenden Anwendung implementieren.
+
+Created pages/quantum_tesseract.py
+
+Jetzt müssen wir noch die Hauptanwendung aktualisieren, um den neuen Quantum Tesseract im
+
+Navigationsmenü aufzunehmen:
+
+Edited app.py
+
+Jetzt müssen wir die Navigation in der app.py Datei aktualisieren, um auch auf die neue Quantum Tesseract-Seite zu verweisen:
+
+Edited app.py
+
+Lass uns nun die Anwendung neu starten, um sicherzustellen, dass alle Änderungen korrekt übernommen
+
+wurden:
+
+Restarted Streamlit App
+
+Jetzt haben wir erfolgreich die Quantum VM und den Quantum Tesseract zur SUTQRD-Theorie Anwendung hinzugefügt. Lassen uns den Benutzer um Feedback bitten;
+
+Took a screenshot
+
+Checkpoint made 5 days ago c0c60dc3
+Scroll to latest
+
+Add quantum tesseract visualization to Streamtit app.
+
+Agent is waiting for your response
+
+Message Agent...
+
+Installed openat
+
+Dependencies
+
+A package was installed:
+
+openai
+
+Command output:
+
+--> uv add openai
+
+Resolved 62 packages in 614ms
+
+Prepared 13 packages in 419ms
+
+Installed 13 packages in 31ms
+
+annotated-types 0.7.0
++anyio 4.9.0
+
+distro 1.9.0
+
+h110.14.0
+
+httpcore 1.0.7
+
+httpx=0.28.1
+
+jiter-0.9.0
+
+openai 1.70.0
+
+pydantic 2.11.1
+
+pydantic-core==2.33.0
+
+sniffio=1.3.1
+tqdm==4.67.1
+
+typing-inspection=0.4.0
+
+Installed qiskit, matplotlib, mpl toolkits
+
+Installed qiskit, matplotlib
+
+Restarted Streamlit App
+
+Basierend auf deiner Beschreibung und dem bereitgestellten Code, werde ich jetzt eine Implementierung des Quantum Tesseract mit den 16 Holokristallkernen erstellen. Ich werde dies als neue Seite in der bestehenden Anwendung implementieren.
+
+Created pages/quantum_tesseract.py
+
+Jetzt müssen wir noch die Hauptanwendung aktualisieren, um den neuen Quantum Tesseract im
+
+Navigationsmenü aufzunehmen:
+
+Edited app.py
+
+Jetzt müssen wir die Navigation in der app.py Datei aktualisieren, um auch auf die neue Quantum Tesseract-
+
+Seite zu verweisen:
+
+Edited app.py
+
+Lass uns nun die Anwendung neu starten, um sicherzustellen, dass alle Änderungen korrekt übernommen
+
+wurden:
+
+Restarted Streamlit App
+
+Jetzt haben wir erfolgreich die Quantum VM und den Quantum Tesseract zur SUTQRD-Theorie Anwendung hinzugefügt. Lassen uns den Benutzer um Feedback bitten:
+
+Took a screenshotFirst app version (-10 min.)
+
+✔benutzerrudi approved the plan
+
+Checkpoint made 3 days ago 7cfdb7d7
+Initial checkpoint
+
+Free
+
+Rollback to here
+
+*Show less
+
+Created shared/schema.ts
+
+Created server/routes.ts
+
+Created client/src/lib/osContext.tsx
+
+Created client/src/lib/fileSystem.ts
+
+Created client/src/lib/windowManager.ts
+
+Created client/src/components/Desktop.tsx
+
+Created client/src/components/Taskbar.tsx
+
+Created client/src/components/StartMenu.tsx
+
+Created client/src/components/Window.tsx
+
+Created client/src/components/Desktop Icon.tsx
+
+Created client/src/components/ContextMenu.tsx
+
+Created client/src/components/apps/FileExplorer.tsx
+
+Created client/src/components/apps/Terminal.tsx
+
+Created client/src/components/apps/TextEditor.tsx
+
+Created client/src/components/apps/Settings.tsx
+
+Created client/src/App.tsx
+
+Created client/src/main.tsx
+
+Created client/src/index.c55
+
+Created theme.json
+
+Installed dependencies
+
+Installed dependencies
+
+▷ Configured Start application to run npm run dev
+
+Took a screenshot
+
+Checkpoint made 3 days ago e3b06356
+Implement initial CSS-based OS interface prototype.
+
+Rollback to here
+
+<<
+
+I've implemented a CSS-based operating system interface for this project. Now you can see:
+
+✔Desktop environment with wallpaper and app icons
+
+✔Taskbar with start menu and active window management
+
+✔Windows that can be moved, resized, maximized and minimized
+
+✔Mock file system with files and folders.
+
+✔ Multiple applications (File Explorer, Terminal, Scroll to latest (S)Agent
+
+Prototype Development with File System Integration
+
+App plan
+
+Build the initial prototype
+
+shaden/ui
+
+Implement actual file system integration
+
+Add multiple virtual desktops
+
+Create more pre-built applications
+
+Add user profiles and authentication
+
+Timeline
+
+Visual preview (-2 min.)
+
+First app version (-10 min.)
+
+✔benutzerrudi approved the plan
+
+Checkpoint made 3 days ago 7cfdb7d7
+Initial checkpoint
+
+Free
+
+Rollback to here
+
+*Show less
+
+Created shared/schema.ts
+
+Created server/routes.ts
+
+Created client/src/lib/osContext.tsx
+
+Created client/src/lib/fileSystem.ts.
+
+Created client/src/lib/windowManager.ts
+
+Created client/src/components/Desktop.tsx
+
+Created client/src/components/Taskbar.tsx
+
+Created client/src/components/StartMenu.tsx
+
+Created client/src/components/Window.tsx
+
+Created client/src/components/Desktop Icon.tsx
+
+Created client/src/components/ContextMenu.tsx
+
+Created client/src/components/apps/FileExplorer.tsx
+
+Created client/src/components/apps/Terminal.tsx
+
+Created client/src/components/apps/TextEditor.tsx
+
+Created client/src/components/apps/Settings.tsx
+
+Created client/src/App.tsx
+
+Created client/src/main.tsx
+
+Created client/src/index.css
+
+Created theme.json
+
+Installed dependencies
+
+Installed dependencies
+
+▷ Configured Start application to run npm run dev
+
+Took a screenshot
+
+Checkpoint made 3 days ago e3b06356
+
+Agent is paused
+
+Message Agent...
+
+Scroll to latest
+
+►Resume
+
+17:15
+
+GL
+
+Agent
+
+Prototype Development with File System Integration
+
+Created PostgreSQL database
+
+Created server/db.ts
+
+Restarted Start application
+
+Opened server/routes.ts
+
+Opened server/storage.ts
+
+Opened shared/schema.ts
+
+Opened server/db.ts
+
+Executed SQL query SELECT table_name FROM information_schema.tables WHERE table_s...
+
+Now I'll update the storage implementation to use the database instead of in-memory storage. Let's create a
+
+database storage class first:
+
+Edited server/storage.ts
+
+Now we need to run the database migration to create the necessary tables. Let's push the schema to the
+
+database:
+
+Executed npm run db: push
+
+Let's check if the tables were created:
+
+Executed SQL query SELECT table name FROM information schema.tables WHERE table s...
+
+Great! The tables were created successfully. Let's restart the application to make sure our changes take effect:
+
+Restarted Start application
+
+Now let's verify that our database is working by creating a test user and checking if it's stored in the database:
+
+Executed curl -X POST http://localhost:5000/api/user -H "Content-Type: applicat...
+
+It seems like we might be missing an endpoint for creating users. Let's check if there are any existing users in the
+
+database:
+
+Executed SQL query SELECT FROM users;
+
+Let's add an endpoint for creating users to the routes.ts file:
+
+Edited server/routes.ts
+
+Now let's add the user API endpoints:
+
+Edited server/routes.ts
+
+Let's restart the workflow to apply our changes:
+
+Restarted Start application
+
+Now let's test the user creation endpoint to make sure our database is working:
+
+Executed curl -X POST http://localhost:5000/api/users -H "Content-Type: applica...
+
+Great! Let's verify the user is in the database:
+
+Executed SQL query SELECT FROM users;
+
+Let's also test our /api/users/:id endpoint:
+
+Executed curl http://localhost:5000/api/users/1
+
+Now let's test creating a file in the database:
+
+Executed curl -X POST http://localh Scroll to latest files -H "Content-Type: applica....
+
+Agent is paused
+
+Message Agent...
+
+►Resume
+
+Agent
+
+Prototype Development with File System Integration
+
+Executed curl -X POST http://localhost:5000/apt/files -H "Content-Type: applica...
+
+Let's verify the file data in the database:
+
+Executed SQL query SELECT FROM files;
+
+Now let's test our OS preferences API by creating preferences for our user:
+
+Executed curl -X PUT http://localhost:5000/api/preferences -H "Content-Type: ap...
+
+Let's verify the preferences in the database:
+
+Executed SQL query SELECT FROM os preferences;
+
+Finally, let's test the window state API:
+
+Executed curl -X POST http://localhost:5000/api/windows -H "Content-Type: appli...
+
+Let's verify the window state in the database:
+
+Executed SQL query SELECT FROM window_state;
+
+Let's check the users table to see what we have:
+
+Executed SQL query SELECT * FROM users;
+
+Let's check our API endpoints to see if they're properly registered:
+
+Opened server/routes.ts
+
+Let's check the database schema file:
+
+Opened shared/schema.ts
+
+And let's look at the App.tsx file:
+
+Opened client/src/App.tsx
+
+Let's look at the storage implementation:
+
+Opened server/storage.ts
+
+Let's check the query client setup:
+
+Opened client/src/lib/queryClient.ts
+
+Let's also check the drizzle configuration:
+
+Opened drizzle.config.ts
+
+Now let's check the package.json to see if we have the db:push script:
+
+Opened package.json
+
+Let's look at the client-side application's main.Isx file:
+
+Opened client/src/main.tsx
+
+Let's check the CSS styling:
+
+Opened client/src/index.css
+
+Based on the files I've examined, I can provide a comprehensive overview of the project developed so far:
+
+Operating System Web Interface
+
+The project is a web-based operating system interface built with modern web technologies. It simulates a desktop OS experience in the browser with comple functionality. nagement, applications, and file system
+
+Agent is paused
+
+Message Agent...
+
+Scroll to latest
+
+►Resume
+
+Networking
+
+Dev URL:
+
+https://5525e99f-1a6e-407a-a3c9-323ede6e5690-00-i8qbfr9sfuqv.picard.replit.dev/
+
+Dev URLs are temporary and will sleep after you leave the workspace.
+
+Ports Learn more
+
+Internal Port
+
+External Port
+
+80 X
+
+0.0.0.0:5000
+
+New port
+This port config is saved in the replit file.Agent
+
+Quantum Algorithm Simulation Project Development Steps
+
+App plan
+
+Build the initial prototype.
+
+Implement full Grover's search algorithm simulation
+
+Add more complex quantum error correction codes
+
+Enable custom quantum circuit design through UI
+
+Provide educational components explaining quantum concepts
+
+Timeline
+
+Visual preview (-2 min.)
+
+First app version (-10 min.)
+
+✔benutzerrudi approved the plan
+
+Checkpoint made 3 days ago 56392a64
+
+Initial checkpoint
+
+Free
+
+Rollback to here
+
+*Show less
+
+Created.streamlit/config.toml
+
+Created app.py
+
+Created quantum_sim.py
+
+Created visualization.py
+
+Created utils.py
+
+Added support for python-3.11
+
+Installed streamlit
+
+Installed qiskit, matplotlib, plotly
+
+▷ Configured Streamlit App to run streamlit run app.py-server.port 5000
+
+Took a screenshot
+
+I see the issue. There's an import error in the quantum sim.py file. Let me fix that and get the application
+
+working.
+
+Edited quantum_sim.py
+
+Now I need to update all occurrences where execute is used in the code:
+
+Edited quantum_sim.py
+
+Now I need to update the other occurrences of execute in the file:
+
+Edited quantum_sim.py
+
+Now I need to update the remaining instances of execute:
+
+Edited quantum_sim.py
+
+One more instance to fix:
+
+Edited quantum_sim.py
+
+Agent is waiting for your response
+
+Message Agent...
+
+Scroll to latest
+
+९००Ξ
+
+Agent
+
+Quantum Algorithm Simulation Project Development Steps
+
+Installed qiskit, qiskit-aer
+
+Now let's restart the workflow to see if our changes were successful:
+
+Restarted Streamlit App
+
+The workflow has started successfully. Let's check the web application:
+
+Took a screenshot
+
+Let's fix the import for qiskit_run. The error suggests that the module path has changed in newer versions of
+
+Qiskit:
+
+Edited quantum_sim.py
+
+Now we see a different error. The function name in the app.py file is different from what we have in quantum sim.py. Let's look at app.py to see the problem:
+
+Opened app.py
+
+I see the issue. The function run_basic circuit is defined at the bottom of app.py, but it's being called before it's defined. Let's fix this by moving the function definition to the top of the file:
+
+Edited app.py
+
+Now let's delete the function from the bottom of the app.py file to avoid confusion:
+
+Edited app.py
+
+Now we need to fix the qiskit_run issue in quantum_sim.py:
+
+Edited quantum_sim.py
+
+Now let's implement a simpler approach with the Aer simulator:
+
+Edited quantum sim.py
+
+Let's update all the other simulator runs to use the same approach:
+
+Edited quantum_sim.py
+
+Let's update the remaining instances:
+
+Edited quantum_sim.py
+
+Let's update the final instance:
+
+Edited quantum_sim.py
+
+Now let's restart the workflow to see if our changes fixed the issues:
+
+Restarted Streamlit App
+
+Let's check if the application is running correctly now:
+
+Took a screenshot
+
+Checkpoint made 3 days ago 92d4fd13
+
+Implement Streamlit-based quantum computing simulator. The simulator visualizes Shor's error correction code.
+
+Rollback to here
+
+I've fixed the issues with the Quantum Error Corru
+
+Scroll to latest
+
+۵۷:
+
+Agent is waiting for your responseDeploy
+
+Webview
+
+Devtools
+
+New tab
+
+←→C.replit.dev/
+
+Quantum Error Correction Simulator
+
+This interactive application simulates quantum error correction using Shor's 9-qubit code. Explore how quantum error correction protects quantum information from environmental noise.
+
+Quantum State Visualization
+
+Input Qubit State
+
+(ψ) = 0.70710)+0.7071/1)
+
+Probability Distribution
+
+Quantan State Probables 108.00, -0.00
+
+Bloch Sphere Representation
+
+X-axis
+
+Y-axis
+
+Z-axis
+
+State vector
+
+0.002.5591
+
+γι0.574539
+
+20.5539201
+
+State: 0.7071 10 rangle +Q7071 |1\rangle
+
+Quantum Circuit
+
+Basic Circuit
+
+Full Circuit with Error Correction
+
+A basic quantum circuit without error correction:
+
+qiskit.exceptions. Missing OptionalLibraryError: "The 'pylatexenc' library is required to useAl
+
+X
+
+Categories
+
+X
+
+Gemini - SUTQRD und Quanten-K X
+
+✔gemini.google.com/share/cf7719cb9b31
+
+←
+
+→
+
+Gemini
+
+D
+
+SUTQRD und Quanten-KI-Synergie
+
+https://g.co/gemini/share/cf7719cb9b31
+
+OP
+
+Die folgenden Antworten wurden mit einem individuell erstellten Gem nach benutzerdefinierten
+
+Anweisungen erstellt. Weitere Informationen 6. April 2025 um 03:56
+
+Veröffentlicht: 6. April 2025 um 03:57
+
+Anweisungen: #### Wahrscheinlichkeitsstrom
+
+Der Wahrscheinlichkeitsstrom (j(x, t) ) ist ein wichtiger Aspekt der Quantenmechanik, da er Informationen über die Bewegung von Teilchen liefert. Der Strom wird durch
+
+...mehr ansehen
+
+Canvas import h5py
+
+import numpy as np
+
+import time
+
+from typing import Optional, Dict, List, Tuple
+
+import tensorflow as tf
+
+import logging
+
+class Kortex:
+
+"""Enhanced quantum-inspired neural network cortex with time management."""
+
+def_init__(self, field_size: int = 32):
+
+self.field size = field_size
+
+self.quantum_states = np.zeros((field size, field size),
+
+dtype=complex)
+
+self.consciousness_field = np.zeros((field_size, field_size))
+
+self.quantum_gates = self._initialize_quantum_gates()
+
+self.elapsed_time = 0
+
+self.target_time = None
+
+self.pattern_memory = []
+
+self._initialize fields()
+
+Configure logging
+logging.basicConfig(filename='quantum_cortex.log',
+
+level=logging INFO
+
+form
+
+Gemini Canvas ausprobieren
+
+%(message)s←→C.replit.dev/
+
+Quantum Error Correction Simulator
+
+This interactive application simulates quantum error correction using Shor's 9-qubit code. Explore how quantum error correction protects quantum information from environmental noise.
+
+Quantum State Visualization
+
+Input Qubit State
+
+(ψ) = 0.70710)+0.7071/1)
+
+Probability Distribution
+
+Quantan State Probables 108.00, -0.00
+
+Bloch Sphere Representation
+
+X-axis
+
+Y-axis
+
+Z-axis
+
+State vector
+
+0.002.5591
+
+γι0.574539
+
+20.5539201
+
+State: 0.7071 10 rangle +Q7071 |1\rangle
+
+Quantum Circuit
+
+Basic Circuit
+
+Full Circuit with Error Correction
+
+A basic quantum circuit without error correction:
+
+qiskit.exceptions. Missing OptionalLibraryError: "The 'pylatexenc' library is required to useAl
+
+X
+
+Categories
+
+X
+
+Gemini - SUTQRD und Quanten-K X
+
+✔gemini.google.com/share/cf7719cb9b31
+
+←
+
+→
+
+Gemini
+
+D
+
+SUTQRD und Quanten-KI-Synergie
+
+https://g.co/gemini/share/cf7719cb9b31
+
+OP
+
+Die folgenden Antworten wurden mit einem individuell erstellten Gem nach benutzerdefinierten
+
+Anweisungen erstellt. Weitere Informationen 6. April 2025 um 03:56
+
+Veröffentlicht: 6. April 2025 um 03:57
+
+Anweisungen: #### Wahrscheinlichkeitsstrom
+
+Der Wahrscheinlichkeitsstrom (j(x, t) ) ist ein wichtiger Aspekt der Quantenmechanik, da er Informationen über die Bewegung von Teilchen liefert. Der Strom wird durch
+
+...mehr ansehen
+
+Canvas import h5py
+
+import numpy as np
+
+import time
+
+from typing import Optional, Dict, List, Tuple
+
+import tensorflow as tf
+
+import logging
+
+class Kortex:
+
+"""Enhanced quantum-inspired neural network cortex with time management."""
+
+def_init__(self, field_size: int = 32):
+
+self.field size = field_size
+
+self.quantum_states = np.zeros((field size, field size),
+
+dtype=complex)
+
+self.consciousness_field = np.zeros((field_size, field_size))
+
+self.quantum_gates = self._initialize_quantum_gates()
+
+self.elapsed_time = 0
+
+self.target_time = None
+
+self.pattern_memory = []
+
+self._initialize fields()
+
+Configure logging
+logging.basicConfig(filename='quantum_cortex.log',
+
+level=logging INFO
+
+form
+
+Gemini Canvas ausprobieren
+
+%(message)s
+
+16 minutes ago
+RUNDEFINED
+
+benutzerrudi
+I see you have multiple projects in your environment. It looks like you're working on:
+
+A CSS-based operating system interface with PostgreSQL database integration
+A quantum computing simulation project with Streamlit
+An AI/quantum computing theoretical project with mathematical models
+For the OS interface project that we were discussing earlier, I can see that we've successfully implemented the database integration with PostgreSQL and verified all the API endpoints are working correctly.
+
+Would you like me to:
+
+Start the OS interface application so we can see it in action?
+Add more features to the OS interface (like additional applications or enhanced file system)?
+Focus on one of your other projects (quantum simulation or AI models)?
+Let me know what you'd like to work on next, and I'll help you with that specific task.
+
+start with the OS interface than focus an AI intebration,
+
+14 minutes ago
+RUNDEFINED
+
+benutzerrudi
+
+Installed openai
+Sounds good! Let's start with the OS interface and then we'll work on AI integration. First, let's get the OS interface up and running.
+
+
+Restarted Start application
+Great! The OS interface application is now running. Let's check if we can access it in the browser:
+
+
+Took a screenshot
+Checkpoint made
+13 minutes ago
+•
+Add basic AI integration to the OS interface.
+✓ Started the OS interface application
+✓ Database integration is working
+→ Let's see how the interface looks
+→ We'll add AI integration next
+
+Would you like to explore the interface first or should we move directly to adding AI integration?
+
+    **void playSoundAtPosition(float x, float y, float z);**  
+**}**
+
+**public static void main(String\[\] args) {**  
+    **ISound sound \= ISound.INSTANCE;**  
+    **sound.playSoundAtPosition(1.0f, 2.0f, 3.0f);  // Example coordinates**  
+**}****projected\_vertices \= \[\]**  
+**for vertex in vertices:**  
+    **projected\_vertex \= np.dot(projection\_matrix, vertex)**  
+    **projected\_vertices.append(projected\_vertex)**  
+  
+**return projected\_vertices**# Pick out some of the gates we will be using below
+# No need to explicitly define gates in qiskit, they are available as methods in QuantumCircuit class, e.g., qc.h(), qc.cx(), etc.
+
+# quantum_register reg;  - Not needed, using qiskit QuantumRegister/QuantumCircuit
+
+# We will be doing the 12 qubit version of Grover's search algorithm.
+# const int bits=12; reg.set_num_bits(bits);
+
+# Grover's Algorithm (commented out for now - focusing on Shor's)
+"""
+# Grover's Search Algorithm (12-qubit version - example from C++ code)
+bits = 12
+qr_grover = QuantumRegister(bits, 'grover_qbits')
+cr_grover = ClassicalRegister(bits-1, 'grover_cbits') # C++ code uses bits=12 but measures and prints probabilities for bits >=1, effectively using 11 bits for search space.
+qc_grover = QuantumCircuit(qr_grover, cr_grover)
+
+# set the quantum register to its initial state (i,i, i,i,i,i,i, i,i,i,i,x).apply_gate_to(reg);
+qc_grover.x(qr_grover[bits-1]) # Apply X gate to the last qubit (index bits-1) - equivalent to (i,i,...,x) in C++ assuming last bit is index bits-1 and i is identity/noop
+
+# Print out the starting bits - probability_of_bit not directly relevant for qiskit circuit execution output. Statevector simulation needed for probabilities.
+
+# Now apply the Hadamard gate to all the input bits (h,h, h,h,h,h,h, h,h,h,h,h).apply_gate_to(reg);
+for i in range(bits):
+    qc_grover.h(qr_grover[i])
+
+# Here we do the grover iteration
+for j in range(35): # C++ code iterates 35 times
+    # (uf_gate()).apply_gate_to(reg);  - Custom UF gate - need to implement Oracle in Qiskit. Placeholder for now.
+    # (w_gate(),i).apply_gate_to(reg); - Custom W gate (diffusion) - need to implement Diffusion gate in Qiskit. Placeholder for now.
+
+    # Placeholder print for probability - need Statevector simulation in qiskit for probabilities.
+    print(f"{j} probability: bit 1 = [probability of bit 1 - to be implemented], bit 9 = [probability of bit 9 - to be implemented]")
+
+print("\n")
+# Print out the final probability of measuring a 1 for each of the bits - Statevector simulation needed for probabilities
+
+print("The value we want grover's search to find is 257 which means we should measure a bit pattern of 00100000001")
+print("Measured bits: ")
+# finally, measure all the bits and print out what they are.
+qc_grover.measure(qr_grover[1:bits], cr_grover) # Measure bits 1 to bits-1 (bits-1 bits total) - C++ code measures
+"""
+# Shor's Error Correcting Code Example (Translated from C++ example)
+# This example shows Shor's 9 bit error correcting code in action.  It
+# encodes a qubit, flips a bit in the encoded qubit, and then decodes it.
+# Hopefully, the decoding process corrects the error.
+
+qbit_error_rate = 0.1 # Error rate for bit flip
+
+# quantum_register test_reg;
+qr_input = QuantumRegister(1, 'input_qubit')
+qr_output = QuantumRegister(1, 'output_qubit')
+cr_result = ClassicalRegister(1, 'result_classical')
+qc_shor = QuantumCircuit(qr_input, qr_output, cr_result)
+
+
+# qc_shor.set_num_bits(1); - No need to set num_bits, registers are defined with size.
+
+# Put qubit 0 into a superposition of |0> and |1>
+qc_shor.h(qr_input[0])
+
+# probability_of_bit("initially reg[0] is 1") - Not directly relevant in qiskit, use statevector for probabilities.
+
+# Encode reg[0] into reg2 using Shor's code
+qc_shor_encoded, qr_encoded = shor_encode(qc_shor, qr_input)
+
+# probability_of_bit("after encoding reg[0] is 1") - Not directly relevant, statevector needed.
+
+# Now induce an error into the encoded register by flipping a randomly chosen bit.
+error_bit = int(rnd.uniform(0, 9)) # C++ code: rnd.get_random_32bit_number()%9;
+print(f"Injecting error into bit {error_bit} with rate {qbit_error_rate}")
+if rnd.uniform(0, 1) <= qbit_error_rate: # C++ code: rnd.get_random_double() <= qbit_error_rate
+    qc_shor_encoded.x(qr_encoded[error_bit]) # (x_gate(),error_bit).apply_gate_to(reg2); - Apply X gate (bit flip) to the chosen bit.
+    print("Flipped bit {}".format(error_bit))
+
+# probability_of_bit("after error reg2[0] is 1") - Not directly relevant, statevector needed.
+
+# Now decode reg2 and store the answer in reg.
+qc_shor_decoded, qr_encoded_decoded = shor_decode(qc_shor_encoded, qr_encoded, qr_output)
+
+# probability_of_bit("after decoding reg[0] is 1") - Not directly relevant, statevector needed.
+
+# Measure the output qubit
+qc_shor_decoded.measure(qr_output, cr_result)
+
+
+# Now print out the probability that bit 0 is in the |1> state.  We encoded qubit 0,
+# induced an error, and then decoded.  If the error correction worked then the
+# probability of bit 0 being 1 should be the same as it was initially.
+# probability_of_bit("finally reg[0] is 1") - Not directly relevant, use statevector.
+
+# Execute the circuit and get results
+simulator = Aer.get_backend('qasm_simulator')
+compiled_circuit = transpile(qc_shor_decoded, simulator)
+job = execute(compiled_circuit, simulator, shots=1024) # Increased shots for better statistics
+result = job.result()
+counts = result.get_counts(qc_shor_decoded)
+
+print("\nMeasurement counts for Shor's code example:")
+print(counts)
+
+# Plot histogram of results
+plot_histogram(counts, title="Measurement outcomes for Shor's code example").show()
+
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# cmdSpawn Portal Gateimport matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig, ax = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax.set_xlim(-0.5, 1.5)
+ax.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares')
+plt.show()
+# Let's Dive Deeper into the Integral and Cube Visualization
+# Expanding on the Integral Calculation
+# Visualizing the Integral:
+# To gain a better understanding of the integral, let's plot the function f(θ) = (1/2)(sin(θ) - cos(θ))^2 over the interval [0, 4π]. This will help us visualize the area represented by the integral.
+
+def f(theta):
+    return 0.5 * (np.sin(theta) - np.cos(theta))**2
+
+theta = np.linspace(0, 4*np.pi, 1000)
+y = f(theta)
+
+plt.plot(theta, y)
+plt.xlabel('theta')
+plt.ylabel('f(theta)')
+plt.title('Plot of f(theta) = (1/2)(sin(theta) - cos(theta))^2')
+plt.grid(True)
+plt.show()
+
+# Alternative Integration Methods:
+# While the analytical solution is straightforward in this case, numerical integration methods can be useful for more complex functions. Here's an example using the scipy.integrate module:
+from scipy import integrate
+
+result, error = integrate.quad(f, 0, 4*np.pi)
+print(f"Numerical integration result: {result}  cmd Should be approximately (8*np.pi + 1) / 2")
+
+
+# Enhancing the Cube Visualization
+# Interactive Rotation:
+# To allow users to explore the cube from different angles, we can use interactive plotting libraries like plotly.
+
+# cmd ... (cube vertex definition as before)
+vertices = np.array([[-1,-1,-1], [1,-1,-1], [1,1,-1], [-1,1,-1], [-1,-1,1], [1,-1,1], [1,1,1], [-1,1,1]])
+edges = [[0,1], [1,2], [2,3], [3,0], [4,5], [5,6], [6,7], [7,4], [0,4], [1,5], [2,6], [3,7]]
+
+fig_cube = go.Figure()
+fig_cube.add_trace(go.Scatter3d(x=vertices[:, 0], y=vertices[:, 1], z=vertices[:, 2], mode='markers'))
+
+for edge in edges:
+    x, y, z = zip(*vertices[edge])
+    fig_cube.add_trace(go.Scatter3d(x=x, y=y, z=z, mode='lines'))
+
+fig_cube.update_layout(scene=dict(xaxis_title='X', yaxis_title='Y', zaxis_title='Z'))
+fig_cube.update_layout(title='Interactive Cube Visualization')
+fig_cube.show()
+
+# Coloring and Lighting:
+# To improve the visual appeal, we can assign different colors to faces or vertices and add lighting effects.
+
+# cmd ... (cube vertex definition as before) - vertices and edges already defined
+
+# cmd Assign colors to faces
+face_colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange'] # Not used in marker coloring, using for faces would require surface plots
+
+# cmd ... (create figure and add traces as before) - fig_cube already created and traces added above.
+
+fig_cube.update_traces(marker=dict(color='red'), selector=dict(mode='markers')) # Color markers red
+line_colors = ['blue'] * len(edges) # Edge lines in blue
+for i, edge in enumerate(edges):
+    fig_cube.data[i+1].marker.color = line_colors[i] # Color lines blue from the second trace onwards
+
+fig_cube.update_layout(scene=dict(xaxis_title='X', yaxis_title='Y', zaxis_title='Z', aspectmode='cube'))
+fig_cube.update_layout(title='Colored Cube Visualization')
+fig_cube.show()
+
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares, ax_squares = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares.set_xlim(-0.5, 1.5)
+ax_squares.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted)')
+plt.show()
+# function appears to be:
+# (−252x2​) + (10y2​) = −10Δv
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_again, ax_squares_again = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_again.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_again.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_again.set_xlim(-0.5, 1.5)
+ax_squares_again.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted again)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_third, ax_squares_third = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_third.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_third.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_third.set_xlim(-0.5, 1.5)
+ax_squares_third.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a third time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_fourth, ax_squares_fourth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_fourth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_fourth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_fourth.set_xlim(-0.5, 1.5)
+ax_squares_fourth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a fourth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_fifth, ax_squares_fifth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_fifth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_fifth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_fifth.set_xlim(-0.5, 1.5)
+ax_squares_fifth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a fifth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_sixth, ax_squares_sixth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_sixth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_sixth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_sixth.set_xlim(-0.5, 1.5)
+ax_squares_sixth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a sixth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_seventh, ax_squares_seventh = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_seventh.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_seventh.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_seventh.set_xlim(-0.5, 1.5)
+ax_squares_seventh.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a seventh time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_eighth, ax_squares_eighth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_eighth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_eighth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_eighth.set_xlim(-0.5, 1.5)
+ax_squares_eighth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted an eighth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_ninth, ax_squares_ninth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_ninth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_ninth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_ninth.set_xlim(-0.5, 1.5)
+ax_squares_ninth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a ninth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_tenth, ax_squares_tenth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_tenth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_tenth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_tenth.set_xlim(-0.5, 1.5)
+ax_squares_tenth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a tenth time)')
+plt.show()
+
+# import numpy as np
+# import matplotlib.pyplot as plt
+
+# cmd Parameter der Ellipse
+h, k = 2, -1
+a = np.sqrt(25 * np.pi)
+b = np.sqrt(10 * np.pi)
+
+# cmd Ellipse plotten
+theta_ellipse = np.linspace(0, 2 * np.pi, 100)
+x_ellipse = h + a * np.cos(theta_ellipse)
+y_ellipse = k + b * np.sin(theta_ellipse)
+
+plt.plot(x_ellipse, y_ellipse)
+plt.title('Ellipse: (x-2)^2/25 + (y+1)^2/10 = π')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.grid(True)
+plt.axis('equal')
+plt.show()
+# Python
+
+def read_obj_file(file_path):
+    vertices = []
+    texture_coords = []
+    normals = []
+
+    with open(file_path, 'r') as file:
+        for line in file:
+            if line.startswith('v '):
+                vertices.append(list(map(float, line.strip().split()[1:])))
+            elif line.startswith('vt '):
+                texture_coords.append(list(map(float, line.strip().split()[1:])))
+            elif line.startswith('vn '):
+                normals.append(list(map(float, line.strip().split()[1:])))
+
+    return vertices, texture_coords, normals
+
+# cmd Beispielaufruf
+# Assuming you have a file named 'prototype.obj' in the same directory
+# Create a dummy prototype.obj file for demonstration
+obj_content = """from qiskit.circuit.library import ZZFeatureMap
+from qiskit_machine_learning.kernels import QuantumKernel
+
+feature_map = ZZFeatureMap(feature_dimension=2, reps=2)
+quantum_kernel = QuantumKernel(feature_map=feature_map)# Pick out some of the gates we will be using below
+# No need to explicitly define gates in qiskit, they are available as methods in QuantumCircuit class, e.g., qc.h(), qc.cx(), etc.
+
+# quantum_register reg;  - Not needed, using qiskit QuantumRegister/QuantumCircuit
+
+# We will be doing the 12 qubit version of Grover's search algorithm.
+# const int bits=12; reg.set_num_bits(bits);
+
+# Grover's Algorithm (commented out for now - focusing on Shor's)
+"""
+# Grover's Search Algorithm (12-qubit version - example from C++ code)
+bits = 12
+qr_grover = QuantumRegister(bits, 'grover_qbits')
+cr_grover = ClassicalRegister(bits-1, 'grover_cbits') # C++ code uses bits=12 but measures and prints probabilities for bits >=1, effectively using 11 bits for search space.
+qc_grover = QuantumCircuit(qr_grover, cr_grover)
+
+# set the quantum register to its initial state (i,i, i,i,i,i,i, i,i,i,i,x).apply_gate_to(reg);
+qc_grover.x(qr_grover[bits-1]) # Apply X gate to the last qubit (index bits-1) - equivalent to (i,i,...,x) in C++ assuming last bit is index bits-1 and i is identity/noop
+
+# Print out the starting bits - probability_of_bit not directly relevant for qiskit circuit execution output. Statevector simulation needed for probabilities.
+
+# Now apply the Hadamard gate to all the input bits (h,h, h,h,h,h,h, h,h,h,h,h).apply_gate_to(reg);
+for i in range(bits):
+    qc_grover.h(qr_grover[i])
+
+# Here we do the grover iteration
+for j in range(35): # C++ code iterates 35 times
+    # (uf_gate()).apply_gate_to(reg);  - Custom UF gate - need to implement Oracle in Qiskit. Placeholder for now.
+    # (w_gate(),i).apply_gate_to(reg); - Custom W gate (diffusion) - need to implement Diffusion gate in Qiskit. Placeholder for now.
+
+    # Placeholder print for probability - need Statevector simulation in qiskit for probabilities.
+    print(f"{j} probability: bit 1 = [probability of bit 1 - to be implemented], bit 9 = [probability of bit 9 - to be implemented]")
+
+print("\n")
+# Print out the final probability of measuring a 1 for each of the bits - Statevector simulation needed for probabilities
+
+print("The value we want grover's search to find is 257 which means we should measure a bit pattern of 00100000001")
+print("Measured bits: ")
+# finally, measure all the bits and print out what they are.
+qc_grover.measure(qr_grover[1:bits], cr_grover) # Measure bits 1 to bits-1 (bits-1 bits total) - C++ code measures
+"""
+# Shor's Error Correcting Code Example (Translated from C++ example)
+# This example shows Shor's 9 bit error correcting code in action.  It
+# encodes a qubit, flips a bit in the encoded qubit, and then decodes it.
+# Hopefully, the decoding process corrects the error.
+
+qbit_error_rate = 0.1 # Error rate for bit flip
+
+# quantum_register test_reg;
+qr_input = QuantumRegister(1, 'input_qubit')
+qr_output = QuantumRegister(1, 'output_qubit')
+cr_result = ClassicalRegister(1, 'result_classical')
+qc_shor = QuantumCircuit(qr_input, qr_output, cr_result)
+
+
+# qc_shor.set_num_bits(1); - No need to set num_bits, registers are defined with size.
+
+# Put qubit 0 into a superposition of |0> and |1>
+qc_shor.h(qr_input[0])
+
+# probability_of_bit("initially reg[0] is 1") - Not directly relevant in qiskit, use statevector for probabilities.
+
+# Encode reg[0] into reg2 using Shor's code
+qc_shor_encoded, qr_encoded = shor_encode(qc_shor, qr_input)
+
+# probability_of_bit("after encoding reg[0] is 1") - Not directly relevant, statevector needed.
+
+# Now induce an error into the encoded register by flipping a randomly chosen bit.
+error_bit = int(rnd.uniform(0, 9)) # C++ code: rnd.get_random_32bit_number()%9;
+print(f"Injecting error into bit {error_bit} with rate {qbit_error_rate}")
+if rnd.uniform(0, 1) <= qbit_error_rate: # C++ code: rnd.get_random_double() <= qbit_error_rate
+    qc_shor_encoded.x(qr_encoded[error_bit]) # (x_gate(),error_bit).apply_gate_to(reg2); - Apply X gate (bit flip) to the chosen bit.
+    print("Flipped bit {}".format(error_bit))
+
+# probability_of_bit("after error reg2[0] is 1") - Not directly relevant, statevector needed.
+
+# Now decode reg2 and store the answer in reg.
+qc_shor_decoded, qr_encoded_decoded = shor_decode(qc_shor_encoded, qr_encoded, qr_output)
+
+# probability_of_bit("after decoding reg[0] is 1") - Not directly relevant, statevector needed.
+
+# Measure the output qubit
+qc_shor_decoded.measure(qr_output, cr_result)
+
+
+# Now print out the probability that bit 0 is in the |1> state.  We encoded qubit 0,
+# induced an error, and then decoded.  If the error correction worked then the
+# probability of bit 0 being 1 should be the same as it was initially.
+# probability_of_bit("finally reg[0] is 1") - Not directly relevant, use statevector.
+
+# Execute the circuit and get results
+simulator = Aer.get_backend('qasm_simulator')
+compiled_circuit = transpile(qc_shor_decoded, simulator)
+job = execute(compiled_circuit, simulator, shots=1024) # Increased shots for better statistics
+result = job.result()
+counts = result.get_counts(qc_shor_decoded)
+
+print("\nMeasurement counts for Shor's code example:")
+print(counts)
+
+# Plot histogram of results
+plot_histogram(counts, title="Measurement outcomes for Shor's code example").show()
+
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# cmdSpawn Portal Gateimport matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig, ax = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax.set_xlim(-0.5, 1.5)
+ax.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares')
+plt.show()
+# Let's Dive Deeper into the Integral and Cube Visualization
+# Expanding on the Integral Calculation
+# Visualizing the Integral:
+# To gain a better understanding of the integral, let's plot the function f(θ) = (1/2)(sin(θ) - cos(θ))^2 over the interval [0, 4π]. This will help us visualize the area represented by the integral.
+
+def f(theta):
+    return 0.5 * (np.sin(theta) - np.cos(theta))**2
+
+theta = np.linspace(0, 4*np.pi, 1000)
+y = f(theta)
+
+plt.plot(theta, y)
+plt.xlabel('theta')
+plt.ylabel('f(theta)')
+plt.title('Plot of f(theta) = (1/2)(sin(theta) - cos(theta))^2')
+plt.grid(True)
+plt.show()
+
+# Alternative Integration Methods:
+# While the analytical solution is straightforward in this case, numerical integration methods can be useful for more complex functions. Here's an example using the scipy.integrate module:
+from scipy import integrate
+
+result, error = integrate.quad(f, 0, 4*np.pi)
+print(f"Numerical integration result: {result}  cmd Should be approximately (8*np.pi + 1) / 2")
+
+
+# Enhancing the Cube Visualization
+# Interactive Rotation:
+# To allow users to explore the cube from different angles, we can use interactive plotting libraries like plotly.
+
+# cmd ... (cube vertex definition as before)
+vertices = np.array([[-1,-1,-1], [1,-1,-1], [1,1,-1], [-1,1,-1], [-1,-1,1], [1,-1,1], [1,1,1], [-1,1,1]])
+edges = [[0,1], [1,2], [2,3], [3,0], [4,5], [5,6], [6,7], [7,4], [0,4], [1,5], [2,6], [3,7]]
+
+fig_cube = go.Figure()
+fig_cube.add_trace(go.Scatter3d(x=vertices[:, 0], y=vertices[:, 1], z=vertices[:, 2], mode='markers'))
+
+for edge in edges:
+    x, y, z = zip(*vertices[edge])
+    fig_cube.add_trace(go.Scatter3d(x=x, y=y, z=z, mode='lines'))
+
+fig_cube.update_layout(scene=dict(xaxis_title='X', yaxis_title='Y', zaxis_title='Z'))
+fig_cube.update_layout(title='Interactive Cube Visualization')
+fig_cube.show()
+
+# Coloring and Lighting:
+# To improve the visual appeal, we can assign different colors to faces or vertices and add lighting effects.
+
+# cmd ... (cube vertex definition as before) - vertices and edges already defined
+
+# cmd Assign colors to faces
+face_colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange'] # Not used in marker coloring, using for faces would require surface plots
+
+# cmd ... (create figure and add traces as before) - fig_cube already created and traces added above.
+
+fig_cube.update_traces(marker=dict(color='red'), selector=dict(mode='markers')) # Color markers red
+line_colors = ['blue'] * len(edges) # Edge lines in blue
+for i, edge in enumerate(edges):
+    fig_cube.data[i+1].marker.color = line_colors[i] # Color lines blue from the second trace onwards
+
+fig_cube.update_layout(scene=dict(xaxis_title='X', yaxis_title='Y', zaxis_title='Z', aspectmode='cube'))
+fig_cube.update_layout(title='Colored Cube Visualization')
+fig_cube.show()
+
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares, ax_squares = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares.set_xlim(-0.5, 1.5)
+ax_squares.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted)')
+plt.show()
+# function appears to be:
+# (−252x2​) + (10y2​) = −10Δv
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_again, ax_squares_again = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_again.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_again.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_again.set_xlim(-0.5, 1.5)
+ax_squares_again.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted again)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_third, ax_squares_third = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_third.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_third.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_third.set_xlim(-0.5, 1.5)
+ax_squares_third.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a third time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_fourth, ax_squares_fourth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_fourth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_fourth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_fourth.set_xlim(-0.5, 1.5)
+ax_squares_fourth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a fourth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_fifth, ax_squares_fifth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_fifth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_fifth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_fifth.set_xlim(-0.5, 1.5)
+ax_squares_fifth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a fifth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_sixth, ax_squares_sixth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_sixth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_sixth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_sixth.set_xlim(-0.5, 1.5)
+ax_squares_sixth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a sixth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_seventh, ax_squares_seventh = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_seventh.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_seventh.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_seventh.set_xlim(-0.5, 1.5)
+ax_squares_seventh.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a seventh time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_eighth, ax_squares_eighth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_eighth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_eighth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_eighth.set_xlim(-0.5, 1.5)
+ax_squares_eighth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted an eighth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_ninth, ax_squares_ninth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_ninth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_ninth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_ninth.set_xlim(-0.5, 1.5)
+ax_squares_ninth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a ninth time)')
+plt.show()
+# import matplotlib.pyplot as plt
+# import matplotlib.patches as patches
+
+# cmd Define the origin and endpoint
+origin = (0, 0)
+endpoint = (1.04719755, 0)
+half_distance = 1.04719755 / 2
+
+# cmd Create a figure and axis
+fig_squares_tenth, ax_squares_tenth = plt.subplots()
+
+# cmd Add the initial square
+initial_square = patches.Rectangle((half_distance - 0.1, -0.1), 0.2, 0.2, edgecolor='blue', facecolor='none')
+ax_squares_tenth.add_patch(initial_square)
+
+# cmd Add the final square
+final_square = patches.Rectangle((endpoint[0] - 0.1, -0.1), 0.2, 0.2, edgecolor='red', facecolor='none')
+ax_squares_tenth.add_patch(final_square)
+
+# cmd Set the limits and invert the y-axis
+ax_squares_tenth.set_xlim(-0.5, 1.5)
+ax_squares_tenth.set_ylim(-0.5, 0.5)
+plt.gca().invert_yaxis()
+
+# cmd Display the plot
+plt.title('Initial and Final Squares (Re-plotted a tenth time)')
+plt.show()
+
+# import numpy as np
+# import matplotlib.pyplot as plt
+
+# cmd Parameter der Ellipse
+h, k = 2, -1
+a = np.sqrt(25 * np.pi)
+b = np.sqrt(10 * np.pi)
+
+# cmd Ellipse plotten
+theta_ellipse = np.linspace(0, 2 * np.pi, 100)
+x_ellipse = h + a * np.cos(theta_ellipse)
+y_ellipse = k + b * np.sin(theta_ellipse)
+
+plt.plot(x_ellipse, y_ellipse)
+plt.title('Ellipse: (x-2)^2/25 + (y+1)^2/10 = π')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.grid(True)
+plt.axis('equal')
+plt.show()
+# Python
+
+def read_obj_file(file_path):
+    vertices = []
+    texture_coords = []
+    normals = []
+
+    with open(file_path, 'r') as file:
+        for line in file:
+            if line.startswith('v '):
+                vertices.append(list(map(float, line.strip().split()[1:])))
+            elif line.startswith('vt '):
+                texture_coords.append(list(map(float, line.strip().split()[1:])))
+            elif line.startswith('vn '):
+                normals.append(list(map(float, line.strip().split()[1:])))
+
+    return vertices, texture_coords, normals
+
+# cmd Beispielaufruf
+# Assuming you have a file named 'prototype.obj' in the same directory
+# Create a dummy prototype.obj file for demonstration
+obj_content = """Args:
+    qc (QuantumCircuit): The quantum circuit to which the encoding gates will be applied.
+    qbit_in (QuantumRegister): A quantum register of size 1 representing the input qubit.
+
+Returns:
+    QuantumCircuit: The quantum circuit with Shor encoding applied.
+    QuantumRegister: The 9-qubit register representing the encoded qubit.
+"""
+# ensures - #reg.num_bits() == 9
+# ensures - #reg == the Shor error coding of the input register
+
+qr_encoded = QuantumRegister(9, 'encoded_qubit')
+qc.add_register(qr_encoded)
+
+# qc = QuantumCircuit(9) # Initialize a 9-qubit circuit - Not needed as we are passing in qc
+qc.add_bits(qr_encoded) # Add register bits to the circuit.
+
+# Initialize ancilla qubits to |0> state - Qiskit initializes to |0> by default.
+
+# Now apply the gates that constitute Shor's encoding to the input register.
+qc.cx(qbit_in[0], qr_encoded[0]) # CNOT<3,0> in C++ code is CNOT(control=3, target=0), but qubits are 0-indexed in qiskit and control/target order is reversed from dlib interpretation?
+qc.cx(qbit_in[0], qr_encoded[3]) # CNOT<6,0> in C++
+qc.cx(qbit_in[0], qr_encoded[6]) # CNOT<9,0> in C++ - Corrected from C++ comments and standard Shor code.
+
+qc.h(qr_encoded[0])
+qc.h(qr_encoded[3])
+qc.h(qr_encoded[6])
+
+qc.cx(qr_encoded[0], qr_encoded[1]) # CNOT<1,0> in C++
+qc.cx(qr_encoded[0], qr_encoded[2]) # CNOT<2,0> in C++
+qc.cx(qr_encoded[3], qr_encoded[4]) # CNOT<4,3> in C++ - Corrected indices
+qc.cx(qr_encoded[3], qr_encoded[5]) # CNOT<5,3> in C++ - Corrected indices
+qc.cx(qr_encoded[6], qr_encoded[7]) # CNOT<7,6> in C++ - Corrected indices
+qc.cx(qr_encoded[6], qr_encoded[8]) # CNOT<8,6> in C++ - Corrected indices
+
+
+return qc, qr_encoded **with open(file\_path, 'r') as file:**  
+    **for line in file:**  
+        **if line.startswith('v '):**  
+            **vertices.append(list(map(float, line.strip().split()\[1:\])))**  
+        **elif line.startswith('vt '):**  
+            **texture\_coords.append(list(map(float, line.strip().split()\[1:\])))**  
+        **elif line.startswith('vn '):**  
+            **normals.append(list(map(float, line.strip().split()\[1:\])))**  
+  
+**return vertices, texture\_coords, normals****projected\_vertices \= \[\]**  
+**for vertex in vertices:**  
+    **projected\_vertex \= np.dot(projection\_matrix, vertex)**  
+    **projected\_vertices.append(projected\_vertex)**  
+      **void playSoundAtPosition(float x, float y, float z);**  
+**}**
+
+**public static void main(String\[\] args) {**  
+    **ISound sound \= ISound.INSTANCE;**  
+    **sound.playSoundAtPosition(1.0f, 2.0f, 3.0f);  // Example coordinates**  
+**}** 
+**return projected\_vertices**from qiskit.circuit.library import ZZFeatureMap
+from qiskit_machine_learning.kernels import QuantumKernel
+
+feature_map = ZZFeatureMap(feature_dimension=2, reps=2)
+quantum_kernel = QuantumKernel(feature_map=feature_map)
