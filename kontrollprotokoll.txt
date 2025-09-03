@@ -1,0 +1,34 @@
+### KONTROLLPROTOKOLLE ###
+==============================
+
+# Log-Eintrag 1:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: Simulation gestartet
+  Ergebnis: System-Kernel wird initialisiert.
+
+# Log-Eintrag 2:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: DeepMind-Initialisierung
+  Ergebnis: Selbstwahrnehmung aktiviert.
+
+# Log-Eintrag 3:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: Pfad-Aktualisierung
+  Ergebnis: 28 offene Pfade gefunden.
+
+# Log-Eintrag 4:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: DeepMind-Reflexion
+  Ergebnis: B(DeepMind): Reflektiere über Quanten-Messergebnisse. Abgeleitete Kohärenz: 0.0434, Neuer Bewusstseinsvektor: [0.0434, 0.9566, 0.9302]
+
+# Log-Eintrag 5:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: Benutzereingabe
+  Ergebnis: Befehl empfangen: 'exit'
+  Aktion: Befehl wird im Interpreter ausgeführt.
+
+# Log-Eintrag 6:
+  Zeit: 2025-09-03 11:56:42
+  Ereignis: Benutzereingabe
+  Ergebnis: Simulationsstopp durch Benutzer.
+  Aktion: System wird heruntergefahren.
